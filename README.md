@@ -2,6 +2,10 @@
 
 ![pCloud Logo](https://www.pcloud.com/img/logo.png)
 
+<pre><code id="command">
+sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/optimize.sh)"
+</code></pre>
+
 A powerful bash script to automatically fix and manage pCloud startup issues on Linux systems. This tool provides a user-friendly menu interface to handle common pCloud problems and automate the setup process.
 
 ## Table of Contents
