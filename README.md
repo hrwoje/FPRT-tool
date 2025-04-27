@@ -1,7 +1,5 @@
 # Pcloud Boot Fixer
 
-![pCloud Logo](https://www.pcloud.com/img/logo.png)
-
 <pre><code id="command">
 sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FPRT-tool/refs/heads/main/pcloud_boot_fixer.sh)"
 </code></pre>
